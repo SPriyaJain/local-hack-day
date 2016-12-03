@@ -17,6 +17,7 @@ form {
 
 div.nav-wrapper {
 	color: #80deea;
+
 }
 
 div.timer {
@@ -32,4 +33,11 @@ h2 {
 	top: -5px;
 	right: 20px;
 	position: absolute;
+}
+
+div.testpage {
+	width:850px; 
+	height:1000px; 
+	background-color:white;
+	margin: 0 auto;
 }

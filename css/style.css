@@ -1,0 +1,16 @@
+.transbox {
+  margin: 30px;
+  background-color: rgba(0,0,0,0.4);
+  border: 1px solid black;
+ /* opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */*/
+  top: 5px;
+  left: 75px;
+  height: 700px;
+  width: 1200PX;
+  position: absolute;
+}
+
+form {
+	font-weight: bold;
+}

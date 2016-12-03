@@ -2371,7 +2371,7 @@ input,
 optgroup,
 select,
 textarea {
-  color: inherit;
+  color: black;
   /* 1 */
   font: inherit;
   /* 2 */
@@ -2412,6 +2412,7 @@ input[type="submit"] {
   /* 2 */
   cursor: pointer;
   /* 3 */
+  color: black;
 }
 
 /**

@@ -14,3 +14,22 @@
 form {
 	font-weight: bold;
 }
+
+div.nav-wrapper {
+	color: #80deea;
+}
+
+div.timer {
+	width: 250px; 
+	height: 100px; 
+	top: 75px; 
+	right: -5px; 
+	border: 5px solid white;
+	position: absolute;
+}
+
+h2 {
+	top: -5px;
+	right: 20px;
+	position: absolute;
+}

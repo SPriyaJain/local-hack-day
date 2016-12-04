@@ -41,3 +41,7 @@ div.testpage {
 	background-color:white;
 	margin: 0 auto;
 }
+
+#signup:hover, #login:hover {
+	border-radius: 90px;
+}
